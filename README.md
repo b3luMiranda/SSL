@@ -2,7 +2,7 @@
 
 ------------
 
-- ####  Curso:  K2052  Curso:  K2052
+- ####  Curso:  K2052
 - #### Año de cursada:  2024
 - #### Legajo:  174.452-5
 - #### Apellido: Miranda
