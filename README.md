@@ -1,4 +1,4 @@
-# 📌Sintaxis y Semantica de los Lenguajes <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="100" />
+# 📌Sintaxis y Semantica de los Lenguajes <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100" />
 
 ------------
 
